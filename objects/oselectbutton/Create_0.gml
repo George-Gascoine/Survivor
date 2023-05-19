@@ -1,0 +1,2 @@
+selectedCharacter = noone;
+active = false;

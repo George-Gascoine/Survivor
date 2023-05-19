@@ -1,0 +1,2 @@
+hp--;
+//game_restart();
