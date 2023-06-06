@@ -1,5 +1,9 @@
 {
-  "FolderOrderSettings": [],
+  "FolderOrderSettings": [
+    {"name":"Pack-a-Punch","order":1,"path":"folders/Objects/Pack-a-Punch.yy",},
+    {"name":"Pack-a-Punch","order":7,"path":"folders/Sprites/Pack-a-Punch.yy",},
+    {"name":"Upgrades","order":5,"path":"folders/Sprites/Weapons/Upgrades.yy",},
+  ],
   "ResourceOrderSettings": [
     {"name":"scrFireBullet","order":2,"path":"scripts/scrFireBullet/scrFireBullet.yy",},
     {"name":"rCharacterSelect","order":2,"path":"rooms/rCharacterSelect/rCharacterSelect.yy",},
@@ -7,7 +11,6 @@
     {"name":"oHealthManager","order":4,"path":"objects/oHealthManager/oHealthManager.yy",},
     {"name":"rStartScreen","order":1,"path":"rooms/rStartScreen/rStartScreen.yy",},
     {"name":"oSelectButton","order":5,"path":"objects/oSelectButton/oSelectButton.yy",},
-    {"name":"Sprite8","order":6,"path":"sprites/Sprite8/Sprite8.yy",},
     {"name":"oLargeXPTome","order":1,"path":"objects/oLargeXPTome/oLargeXPTome.yy",},
     {"name":"oDamageManager","order":2,"path":"objects/oDamageManager/oDamageManager.yy",},
     {"name":"sBigEnemy","order":3,"path":"sprites/sBigEnemy/sBigEnemy.yy",},
@@ -25,6 +28,7 @@
     {"name":"oStatsBar","order":6,"path":"objects/oStatsBar/oStatsBar.yy",},
     {"name":"rWorld2","order":3,"path":"rooms/rWorld2/rWorld2.yy",},
     {"name":"sBossBullet","order":1,"path":"sprites/sBossBullet/sBossBullet.yy",},
+    {"name":"oPPMP40","order":3,"path":"objects/oPPMP40/oPPMP40.yy",},
     {"name":"scrSpawnBoss","order":8,"path":"scripts/scrSpawnBoss/scrSpawnBoss.yy",},
     {"name":"sStartButton","order":1,"path":"sprites/sStartButton/sStartButton.yy",},
     {"name":"scrLevelUp","order":4,"path":"scripts/scrLevelUp/scrLevelUp.yy",},
