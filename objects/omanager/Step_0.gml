@@ -5,11 +5,11 @@ roundStart = false;
 }
 if(alarm[0] == -1)
 {
-	alarm[0] = 2*room_speed;
+	alarm[0] = 2*game_get_speed((gamespeed_fps));
 }
 if(alarm[1] == -1)
 {
-	alarm[1] = 60*room_speed;
+	alarm[1] = 60*game_get_speed((gamespeed_fps));
 }
 if(experiencePoints >= requiredXP)
 {
